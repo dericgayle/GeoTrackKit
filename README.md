@@ -8,6 +8,8 @@
 - Custom MKMapKit control for plotting your tracks on a map
 - Example App to demonstrate capabilities
 
+### Latest Version: 0.1.1
+
 ## Project Status
 This project is currently a work in progress.
 
@@ -18,6 +20,7 @@ This project is currently a work in progress.
  [![CocoaPods](https://img.shields.io/cocoapods/dt/GeoTrackKit.svg)](https://cocoapods.org/pods/GeoTrackKit) [![CocoaPods](https://img.shields.io/cocoapods/dm/GeoTrackKit.svg)](https://cocoapods.org/pods/GeoTrackKit)
 
 ### Initial Roadmap
+- [ ] Swift Package Manager Support
 - [ ] Carthage Support
 - [x] CocoaPods Support
 - [x] Continuous Integration (Buddy Build)
