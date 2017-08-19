@@ -95,9 +95,9 @@ extension GeoTrackMap: MKMapViewDelegate {
         }
 
         switch direction {
-        case .down:
+        case .downward:
             renderer.strokeColor = descentColor
-        case .up:
+        case .upward:
             renderer.strokeColor = ascentColor
         default:
             break
